@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Backbone Koans
 
 A set of jasmine powered koans for learning [Backbone.js](http://http://documentcloud.github.com/backbone).
@@ -19,3 +20,7 @@ On opening the the localhost:8000 page in the browser you will see many failing 
 way through the jasmine specs in the js/koans directory, and when you finish you should have
 a better understanding of how to create and test a Backbone app.
 
+=======
+backbone-koans
+==============
+>>>>>>> cca652c6f5894878bd98c87d5d0d45ad54e6f1e6
